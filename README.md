@@ -19,3 +19,8 @@ convenience. Then, to suppress noise and preserve detail in the estimated reflec
 the detail-preserving model based on Gaussian total variation (GTV) is established. The qualitative
 and quantitative comparisons on several public datasets demonstrate the superiority
 of our method over several state-of-the-arts in terms of enhancement efficiency and quality.
+
+Requirements: Matlab 2014
+
+Please download the files 'img_data' and 'src', and then run RGF_main.m.
+
